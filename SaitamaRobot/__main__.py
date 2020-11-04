@@ -78,7 +78,7 @@ SAITAMA_IMG = "https://telegra.ph/file/a25cd90e399f359ae94a1.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Currently nidhi running on free server so no need of donations \
-Join @nidhisupportchat."""
+Join @selinia_support_chatt."""
 
 IMPORTED = {}
 MIGRATEABLE = []
