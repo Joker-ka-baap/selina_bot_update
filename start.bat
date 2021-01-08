@@ -1,4 +1,8 @@
 @echo off
-TITLE Saitama Robot
-:: Enables virtual env mode and then starts saitama
-env\scripts\activate.bat && py -m SaitamaRobot
+TITLE Manager
+py -3.7 --version
+IF "%ERRORLEVEL%" == "0" (
+    py -3.7 -m Manager
+) ELSE (
+    py -m Manager
+)
