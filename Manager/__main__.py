@@ -27,6 +27,8 @@ Made specially for Managing Groups
 
 This Pro bot was made by  [ᒍOKEᖇ](t.me/joker_ka_baap) 
 Click /help or Help button below to find out more about how to use me to my full potential.
+
+If You Are Looking For My Repo Then It is this [Repo LINK](https://github.com/Joker-ka-baap/selina_bot_update)
 """
 
 HELP_STRINGS = """
